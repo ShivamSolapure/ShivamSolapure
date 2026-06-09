@@ -22,4 +22,4 @@ I am a B.Tech Instrumentation Engineering student focused on building practical 
 
 ⭐ If you like my projects, consider giving them a star!
 ---
-[![](https://komarev.com/ghpvc/?username=shivamsolapure&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=shivamsolapure&label=Profile%20view&color=0)](https://visitcount.itsvg.in)
